@@ -1,0 +1,1 @@
+# analise_jmoe_artigo
