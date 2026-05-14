@@ -78,4 +78,4 @@ for index, row in df.iterrows():
         # Opcional: print informativo de que já existe dado ali
         pass
 
-print(f"\n✅ PROCESSO FINALIZADO! Arquivo salvo em: {ARQUIVO_SAIDA}")
+print(f"\n PROCESSO FINALIZADO! Arquivo salvo em: {ARQUIVO_SAIDA}")
